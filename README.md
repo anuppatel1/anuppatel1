@@ -1,7 +1,7 @@
-[![MasterHead](https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp)]
+[![MasterHead](https://res.cloudinary.com/gurucom/image/upload/w_1000,h_250,f_auto/static/GalleryCoverImgs/100/Programming_6.jpg)]
 <h1 align="center">Hi 👋, I'm Anup Patel</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuppatel1&label=Profile%20views&color=0e75b6&style=flat" alt="anuppatel1" /> </p>
 
