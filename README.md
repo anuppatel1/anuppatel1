@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anup Patel</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img class="col-md-8 col-sm-12" align="right" alt="Coding" width="auto" height="auto" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
+<img class="col-md-8 col-sm-12" align="right" alt="Coding" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuppatel1&label=Profile%20views&color=0e75b6&style=flat" alt="anuppatel1" /> </p>
 
